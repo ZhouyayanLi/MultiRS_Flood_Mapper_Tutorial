@@ -30,7 +30,8 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  deploymentBranch: 'gh-pages',
+  
   presets: [
     [
       'classic',
