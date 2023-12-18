@@ -2,7 +2,6 @@
 
 This tutorial is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-# Access the [MultiRS Flood Mapper](https://sar1-iris.users.earthengine.app/view/multirs-flood-mapper)
 
 ### Installation
 
@@ -42,6 +41,8 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 "# MultiRS_Flood_Mapper" 
+
+## Access the [MultiRS Flood Mapper](https://sar1-iris.users.earthengine.app/view/multirs-flood-mapper)
 
 ## Reference
 If you find MultiRS Flood Mapper helpful, please cite our paper:  
