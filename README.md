@@ -4,9 +4,9 @@ This is the tutorial for MultiRS Flood Mapper (referred to as Flood Mapper), a G
 
 The Flood Mapper is designed with user-friendliness in mind, catering to both technical and non-technical users. It incorporates most computational steps, including the often laborious preprocessing and postprocessing, seamlessly integrated to activate upon mouse actions like clicking and dragging. This integration ensures an efficient and accessible experience for all users.
 
-**Access to the [tutorial](https://hydroinformatics.uiowa.edu/tutorials/floodmapper/)**
+**Access the [tutorial](https://hydroinformatics.uiowa.edu/tutorials/floodmapper/)**
 
-**Access to the [MultiRS Flood Mapper](https://sar1-iris.users.earthengine.app/view/multirs-flood-mapper)**
+**Access the [MultiRS Flood Mapper](https://sar1-iris.users.earthengine.app/view/multirs-flood-mapper)**
 
 ![GEE_App_interface](https://github.com/ZhouyayanLi/MultiRS_Flood_Mapper/assets/145369690/62c16062-6ae6-45fc-bdc9-f117aa1d79b0)
 
