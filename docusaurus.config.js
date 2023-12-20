@@ -83,15 +83,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          //{
-          //  title: 'Video Tutorial',
-          //  items: [
-          //    {
-          //      label: 'YouTube video',
-          //      href: 'https://twitter.com/uihilab',
-          //    },
-          //  ],
-          //},
           {
             title: 'Community',
             items: [
@@ -105,11 +96,19 @@ const config = {
             title: 'Reference',
             items: [
               {
-                label: 'article1',
+                label: 'Article 1: ',
+                href: '',
+              },
+              {
+                label: 'https://doi.org/10.31223/X5909M',
                 href: 'https://doi.org/10.31223/X5909M',
               },
               {
-                label: 'article2',
+                label: 'Article 2: ',
+                href: '',
+              },
+              {
+                label: 'https://doi.org/10.31223/X5WH5J',
                 href: 'https://doi.org/10.31223/X5WH5J',
               },
             ],
