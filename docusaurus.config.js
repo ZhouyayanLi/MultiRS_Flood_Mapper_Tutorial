@@ -93,19 +93,11 @@ const config = {
             ],
           },
           {
-            title: 'Reference',
+            title: 'Reference to Journal Articles',
             items: [
-              {
-                label: 'Article 1: ',
-                href: '',
-              },
               {
                 label: 'https://doi.org/10.31223/X5909M',
                 href: 'https://doi.org/10.31223/X5909M',
-              },
-              {
-                label: 'Article 2: ',
-                href: '',
               },
               {
                 label: 'https://doi.org/10.31223/X5WH5J',
