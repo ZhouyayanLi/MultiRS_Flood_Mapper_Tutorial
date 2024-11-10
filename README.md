@@ -14,9 +14,10 @@ The Flood Mapper is designed with user-friendliness in mind, catering to both te
 ## Reference
 If you find MultiRS Flood Mapper helpful, please cite our paper:  
 
-Li, Z., & Demir, I. (2023a). Flood Sequence Mapping with Multimodal Remote Sensing Under the Influence of Dense Vegetation: Mississippi River Case Study. https://doi.org/10.31223/X5909M
+Li, Z., & Demir, I. (2024). Flood sequence mapping with multimodal remote sensing under the influence of dense vegetation. International Journal of Remote Sensing, 45(4), 1059–1078. https://doi.org/10.1080/01431161.2024.2305629
 
-Li, Z., & Demir, I. (2023b). MultiRS Flood Mapper: A Google Earth Engine Application for Water Extent Mapping with Multimodal Remote Sensing and Quantile-Based Postprocessing. https://doi.org/10.31223/X5WH5J
+Li, Z., & Demir, I. (2024). MultiRS flood mapper: a google earth engine application for water extent mapping with multimodal remote sensing and quantile-based postprocessing. Environmental Modelling & Software, 176, 106022. https://doi.org/10.1016/J.ENVSOFT.2024.106022
+
 
 ## Contact
 Please feel free to reach out to the corresponding author **Zhouyayan Li** (<ins>zhouyayan-li@uiowa.edu</ins>) if you have any questions.
